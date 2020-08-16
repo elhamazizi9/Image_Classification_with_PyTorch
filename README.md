@@ -4,4 +4,6 @@ Image Classification is a fundamental task that attempts to assign an image to a
 Since very begining of this process, CIFAR10 has been known to be a good dataset. I have used this dataset and trained it with PYTorch.
 
 
+link to dataset : https://www.kaggle.com/c/cifar-10
+
 <a href="http://uupload.ir/" target="_blank"><img src="http://uupload.ir/files/ai73_5.jpg" border="0" alt="آپلود عکس" /></a>
